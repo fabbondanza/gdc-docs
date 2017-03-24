@@ -28,6 +28,6 @@ Sample	Chromosome	Start	End	Num_Probes	Segment_Mean
 1.[GDC CNV Analysis Pipeline Documentation](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/CNV_Pipeline/)
 
 ## External Links ##
-* TBD
+* DNAcopy website - http://bioconductor.org/packages/release/bioc/html/DNAcopy.html
 
 Categories: Data Type
