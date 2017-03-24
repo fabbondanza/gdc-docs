@@ -5,7 +5,7 @@ HTSeq is a Python package that calculates the number of mapped reads to each pro
 
 ## Overview ##
 
-The first step in gene expression quantification at the GDC is generating a count of the reads mapped to each gene. This is performed by HTSeq and is performed at the gene level.  HTSeq-Count files are available in a tab-delimited format in which one column displays the Ensembl gene ID and the other displays the number of reads mapped to that gene.
+The first step in generating gene expression values from an RNA-Seq alignment at the GDC is generating a count of the reads mapped to each gene. These counts are performed using HTSeq and are calculated at the gene level. HTSeq-Count files are available in a tab-delimited format with one Ensembl gene ID column and one mapped reads column for each gene. These files are then processed further with custom scripts to generate [FPKM](LINK) and [FPKM-UQ](LINK) values.
 
 ## References ##
 

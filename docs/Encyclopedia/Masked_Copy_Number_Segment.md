@@ -9,7 +9,7 @@ The GDC generates Masked Copy Number Segment files by filtering Copy Number Segm
 
 ### Data Formats ###
 
-See the [Copy Number Segment](LINK) page for details.
+See the [Copy Number Segment](LINK) page for format details.
 
 ## References ##
 1. [GDC CNV Documentation](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/CNV_Pipeline/)
