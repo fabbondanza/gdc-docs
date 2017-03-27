@@ -14,6 +14,6 @@ The first step in generating gene expression values from an RNA-Seq alignment at
 3. Anders, S., Pyl, P.T. and Huber, W., 2014. HTSeq–a Python framework to work with high-throughput sequencing data. Bioinformatics, p.btu638.
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Workflow Type
