@@ -17,6 +17,6 @@ Aggregated Somatic Mutation files are available in MAF format, which is a tab-de
 4. [Vcf2maf github](https://github.com/mskcc/vcf2maf)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Data Type
