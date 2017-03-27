@@ -13,6 +13,6 @@ optimizing the alignments by running MarkDuplicates to ??????????????? and then 
 1.[GDC DNA-Seq Documentation](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Workflow Type
