@@ -12,6 +12,6 @@ DNAcopy is used by the GDC to generate copy number variation (CNV) data. A circu
 1. Seshan VE and Olshen A (2016). DNAcopy: DNA copy number data analysis. R package version 1.48.0.
 2. [DNAcopy Website](https://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html)
 ## External Links ##
-*
+* N/A
 
 Categories: Workflow Type
