@@ -9,10 +9,10 @@ A sample can be a tumor or normal tissue, cell or blood sample provided by a par
 relates samples to aliquots, analytes, and/or portions.
 
 ## References ##
-1. [GDC Data Dictionary - Sample] (https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=sample)
-1. [TCGA Enyclopedia - Sample] (https://wiki.nci.nih.gov/display/TCGA/Analyte)
+1. [GDC Data Dictionary - Sample](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=sample)
+1. [TCGA Enyclopedia - Sample](https://wiki.nci.nih.gov/display/TCGA/Analyte)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: General, Biospecimen
