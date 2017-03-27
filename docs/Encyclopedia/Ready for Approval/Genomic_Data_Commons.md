@@ -6,12 +6,12 @@ The NCI Center for Cancer Genomics (CCG) established the GDC to provide the canc
 
 The mission of the GDC is to provide the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. Working towards this mission, the GDC aims to provide a cancer knowledge network that enables the identification of both high- and low-frequency cancer drivers, assists in defining genomic determinants of response to therapy, and informs the composition of clinical trial cohorts sharing targeted genetic lesions.
 ## References ##
-1. [GDC Web Site] (https://gdc.cancer.gov)
-2. [GDC Fact Sheet] (https://gdc.cancer.gov/gdc-factsheet)
-3. [NCI GDC Press Release] (https://www.cancer.gov/news-events/press-releases/2014/GenomicDataCommonsNewsNote)
-4. [NCI GDC Launch] (https://www.cancer.gov/news-events/press-releases/2016/genomic-data-commons-launch)
+1. [GDC Web Site](https://gdc.cancer.gov)
+2. [GDC Fact Sheet](https://gdc.cancer.gov/gdc-factsheet)
+3. [NCI GDC Press Release](https://www.cancer.gov/news-events/press-releases/2014/GenomicDataCommonsNewsNote)
+4. [NCI GDC Launch](https://www.cancer.gov/news-events/press-releases/2016/genomic-data-commons-launch)
 
 ## External Links ##
-* [University of Chicago GDC Press Release] (http://www.chicagotribune.com/news/ct-university-chicago-cancer-data-met-20141202-story.html)
+* [University of Chicago GDC Press Release](http://www.chicagotribune.com/news/ct-university-chicago-cancer-data-met-20141202-story.html)
 
 Categories: General
