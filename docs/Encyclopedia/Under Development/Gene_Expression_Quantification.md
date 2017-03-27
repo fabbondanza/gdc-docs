@@ -17,6 +17,6 @@ All gene expression quantification files are available in [TSV format](LINK).
 
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Data Type
