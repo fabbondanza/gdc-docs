@@ -6,9 +6,9 @@ The [GDC Data Model](https://gdc.cancer.gov/developers/gdc-data-model/gdc-data-m
 relates slides to [portions](LINK).  
 
 ## References ##
-1. [GDC Data Dictionary - Slide] (https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=slide)
+1. [GDC Data Dictionary - Slide](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=slide)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: General, Biospecimen
