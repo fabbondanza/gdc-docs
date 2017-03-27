@@ -15,6 +15,6 @@ See the [Copy Number Segment](LINK) page for format details.
 1. [GDC CNV Documentation](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/CNV_Pipeline/)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Data Type
