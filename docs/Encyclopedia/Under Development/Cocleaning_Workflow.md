@@ -17,6 +17,6 @@ Both cocleaning steps are implemented using the Genome Analysis Toolkit (GATK).
 2. [GATK Website](https://software.broadinstitute.org/gatk/)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Workflow Type
