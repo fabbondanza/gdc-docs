@@ -8,9 +8,8 @@ An Annotated Somatic Mutation is a data file containing the annotated somatic mu
 The Annotated Somatic Mutations files are available at the GDC in [VCF Format](LINK)
 
 ## References ##
-1. [GDC Data Dictionary - Annotated Somatic Mutation] (https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=slide)
+1. [GDC Data Dictionary - Annotated Somatic Mutation](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=slide)
 
 ## External Links ##
-* TBD
-
+* N/A
 Categories: Data Type
