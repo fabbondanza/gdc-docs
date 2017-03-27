@@ -23,7 +23,7 @@ A BCR typically submits the following information to the GDC:
 * Pathology Reports
 
 ## References ##
-1. [TCGA Enyclopedia - Biospecimen Core Resource] (https://wiki.nci.nih.gov/display/TCGA/Biospecimen+Core+Resource)
+1. [TCGA Enyclopedia - Biospecimen Core Resource](https://wiki.nci.nih.gov/display/TCGA/Biospecimen+Core+Resource)
 
 ## External Links ##
 * N/A
