@@ -13,8 +13,8 @@ regions affected. The annotation process also matches each variant to documented
 1.[GDC DNA-Seq Pipeline Documentation](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Workflow Type
-(END)
+
 
