@@ -8,9 +8,9 @@ The structure of the VCF is available in the [VCF 4.1 Specification](https://sam
 
 ## References ##
 1. [Variant Call Format](https://wiki.nci.nih.gov/display/TCGA/Variant+Call+Format)
-2. [GDC VCF Format] (https://gdc-docs.nci.nih.gov/Data/File_Formats/VCF_Format/)
+2. [GDC VCF Format](https://gdc-docs.nci.nih.gov/Data/File_Formats/VCF_Format/)
 
 ## External Links ##
-* [VCF 4.1 Specification] (https://samtools.github.io/hts-specs/VCFv4.1.pdf)
+* [VCF 4.1 Specification](https://samtools.github.io/hts-specs/VCFv4.1.pdf)
 
 Categories: Data Type
