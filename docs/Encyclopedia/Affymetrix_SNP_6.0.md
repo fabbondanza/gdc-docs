@@ -11,6 +11,6 @@ Affymetrix is the vendor for the Affymetrix SNP 6.0 array.
 N/A
 
 ## External Links ##
-* [Affymetrix Genome Wide Human SNP 6.0 Array] (http://www.affymetrix.com/catalog/131533/AFFY/Genome-Wide-Human-SNP-Array-6.0#1_1)
+* [Affymetrix Genome Wide Human SNP 6.0 Array](http://www.affymetrix.com/catalog/131533/AFFY/Genome-Wide-Human-SNP-Array-6.0#1_1)
 
 Categories: Platform
