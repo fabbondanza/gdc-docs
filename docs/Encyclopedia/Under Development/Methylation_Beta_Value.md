@@ -22,6 +22,6 @@ cg00003994	0.607727818648732	chr7	15686237	15686238	MEOX2	protein_coding	ENST000
 2. Zhou, Wanding, Laird Peter L., and Hui Shen. "Comprehensive characterization, annotation and innovative use of Infinium DNA methylation BeadChip probes." Nucleic Acids Research. (2016): doi: 10.1093/nar/gkw967
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Data Type
