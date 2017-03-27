@@ -11,6 +11,6 @@ Aligned reads are maintained in [Binary Alignment Map](LINK) (BAM) format.
 2. [GDC Data Dictionary - Submitted Aligned Reads](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=submitted_aligned_reads)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: Data Type
