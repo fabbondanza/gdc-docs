@@ -8,7 +8,7 @@ The Genomic Data Commons (GDC) Data Portal provides users with web-based access 
 * Advanced search and visualization-assisted filtering of data files
 * Cart for collecting data files of interest
 * Authentication using eRA Commons credentials for access to controlled data files
-* Secure data download directly from the cart or using the GDC Data Transfer Too
+* Secure data download directly from the cart or using the GDC Data Transfer Tool
 
 ## References ##
 1. [GDC Data Portal](https://gdc-portal.nci.nih.gov)
