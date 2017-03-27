@@ -9,9 +9,9 @@ The [GDC Data Model](https://gdc.cancer.gov/developers/gdc-data-model/gdc-data-m
 properties and insert lengths, are aligned separately and all read group alignments from one aliquot are then merged.
 
 ## References ##
-1. [GDC Data Dictionary - Read Group] (https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=read_group)
+1. [GDC Data Dictionary - Read Group](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/#?view=table-definition-view&id=read_group)
 
 ## External Links ##
-* TBD
+* N/A
 
 Categories: General, Biospecimen
