@@ -1,4 +1,4 @@
-# Copy Number Variation #
+# Copy Number Variation (CNV) #
 ## Description ##
 ## Overview ##
 ### Data ###
