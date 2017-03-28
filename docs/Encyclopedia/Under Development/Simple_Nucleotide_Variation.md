@@ -1,4 +1,4 @@
-# Simple Nucleotide Variation #
+# Simple Nucleotide Variation (SNV) #
 ## Description ##
 ## Overview ##
 ### Data ###
