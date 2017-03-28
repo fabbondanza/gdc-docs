@@ -1,4 +1,4 @@
-# Variant Call Format #
+# Variant Call Format (VCF) #
 ## Description ##
 The Variant Call Format (VCF) is a standardized format for storing and reporting genomic sequence variations.[1]
 ## Overview ##
