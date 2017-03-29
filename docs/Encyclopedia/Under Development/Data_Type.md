@@ -9,4 +9,4 @@ The Overview section should provide information on how the term is used in the G
 ## External Links ##
 * [external link name] (external link URL)
 
-Categories: Data Type
+Categories: General
