@@ -2,7 +2,9 @@
 ## Description ##
 The GDC Data Submission Portal is a platform that allows researchers to submit and release data into the GDC.
 ## Overview ##
-The GDC Data Submission Portal is a platform that allows researchers to submit and release data to the GDC. The key features of the GDC Data Submission Portal are:
+The GDC Data Submission Portal is a platform that allows researchers to submit and release data to the GDC. 
+
+Key GDC Data Submission Portal features include:
 
 * Upload and Validate Data: Project data can be uploaded to the GDC project workspace. The GDC will validate the data against the   GDC Data Dictionary.
 * Review and Submit Data: Prior to submission, data can be reviewed to check for accuracy. Once the review is complete, the data can be submitted to the GDC for processing through   Data Harmonization.
