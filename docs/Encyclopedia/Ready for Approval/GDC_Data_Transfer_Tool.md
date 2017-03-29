@@ -6,8 +6,8 @@ The GDC DTT provides an optimized method of transferring data to and from the GD
 
 Key GDC DTT features include:
 
-* Command-line interface to specify the desired data transfer protocol and multiple files for download
-* Utilization of a manifest file generated from the GDC Data Portal for multiple downloads and uploads 
+* Command-line interface to specify the desired data transfer protocol
+* Utilization of a manifest file generated from the GDC Data Portal and GDC Data Submission Portal for multiple downloads and uploads, respectively
 * Supports the secure transfer of controlled access data using an authentication key (token)
 
 ## References ##
