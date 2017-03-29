@@ -1,4 +1,4 @@
-# Genomic Data Analysis Network (GDAN) #
+# Genome Data Analysis Network (GDAN) #
 ## Description ##
 The Genomic Data Analysis Network (GDAN) is...
 ## Overview ##
