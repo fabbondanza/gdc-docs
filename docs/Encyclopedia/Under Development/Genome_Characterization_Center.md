@@ -1,4 +1,4 @@
-# Genomic Characterization Center (GCC) #
+# Genome Characterization Center (GCC) #
 ## Description ##
 ## Overview ##
 ### Structure ###
